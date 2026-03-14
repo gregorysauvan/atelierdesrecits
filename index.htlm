@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>L'Atelier des Récits</title>
+
+<style>
+
+body{
+    margin:0;
+    font-family: Georgia, "Times New Roman", serif;
+    background:#fafafa;
+    color:#222;
+}
+
+header{
+    text-align:center;
+    padding:40px 20px;
+    background:white;
+    border-bottom:1px solid #e5e5e5;
+}
+
+h1{
+    margin:0;
+    font-size:42px;
+    letter-spacing:1px;
+}
+
+.subtitle{
+    margin-top:10px;
+    color:#666;
+}
+
+main{
+    max-width:1200px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+iframe{
+    width:100%;
+    height:700px;
+    border:none;
+    border-radius:10px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.1);
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    color:#888;
+    font-size:14px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>L'Atelier des Récits</h1>
+<div class="subtitle">
+Histoires, mondes imaginaires et explorations narratives
+</div>
+</header>
+
+<main>
+
+<iframe 
+src="https://claude.site/public/artifacts/1dd05fd6-d9a0-419c-9038-24d4b42ca257/embed"
+title="Claude Artifact"
+width="100%"
+height="600"
+frameborder="0"
+allow="clipboard-write"
+allowfullscreen>
+</iframe>
+
+</main>
+
+<footer>
+© L'Atelier des Récits
+</footer>
+
+</body>
+</html>
